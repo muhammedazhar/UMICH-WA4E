@@ -1,0 +1,15 @@
+/* Latest compiled and minified CSS */
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css");
+  
+/* Optional theme */
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css");
+
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    padding-top: 0px;
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
