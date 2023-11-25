@@ -1,6 +1,6 @@
-# Javascript, Jquery and Json Coursera
+# JavaScript, jQuery and JSON Coursera
 
-This repository includes course files for the course - [Javascript, Jquery and Json](https://www.coursera.org/learn/javascript-jquery-json).
+This repository includes course files for the course - [JavaScript, jQuery and JSON](https://www.coursera.org/learn/javascript-jquery-json).
 
 Sample folder contains ajax and json apps
 Week 4 folder contains Join Operation usage
@@ -8,12 +8,12 @@ Setup files are added where required.
 
 ### References
 
-- Jquery and php
+- jQuery and PHP
 - Ajax
-- Jquery autocomplete
+- jQuery autocomplete
 - Flash messages
-- Sql join usage
-- Php post redirects
+- SQL join usage
+- PHP post redirects
 - Sessions usage
 
 ## Get started
@@ -21,10 +21,10 @@ Setup files are added where required.
 Setup files added where needed
 The database connectivity files used all have user as `alan` and password as `alan`.
 
-- Dbms - `mysql(xampp)`
-- Database - `js`
-- User - `alan`
-- Password - `alan`
+- DBMS - `mysql(xampp)`
+- Database - ``
+- User - ``
+- Password - ``
 - Use `insert.php` and `delete.php` to quickly modify `users` table
 
 ## Assignments
