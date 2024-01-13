@@ -1,3 +1,5 @@
+# macOS specific files
 .DS_Store
 .localized
 bin/
+WebDevelopment/
